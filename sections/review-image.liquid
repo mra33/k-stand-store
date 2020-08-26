@@ -1,0 +1,33 @@
+
+    <img src="{{ section.settings.review_image }}" />
+
+
+{% schema %}
+
+{
+    "name": "Image",
+    "settings": [ {
+		 
+		"id": "review_image",
+ 		"label": "img",
+        "type": "image_picker"
+   
+	}
+
+],
+
+"presets": [
+    {
+      "name": "Image",
+      "category": "Review Image"
+    }
+  ]
+}
+
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

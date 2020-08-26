@@ -121,6 +121,292 @@
           "heading": "You may also like",
           "vendor_show": false
         }
+      },
+      "slideshow": {
+        "type": "slideshow",
+        "blocks": {
+          "1598393962939": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/KS20W-TwoTone-ClosedandOpen-Standing.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "The K-Stand’s patented design allows it to lay flat for storage inside your instrument case along with your instrument then instantly transform to become a sturdy instrument stand for your Guitar, Ukulele or other similar instrument. Every K-Stand is hand-made hardwood and is available in a variety of finish colors.",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "1598393784539": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1903_CKD_MM001_RG_00036.jpg",
+              "alignment": "center bottom",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "right",
+              "slide_heading": "20 Inch tall K-Stand instrument stand holds full-sized Acoustic Guitar.",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "1598393966077": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1903_CKD_MM001_RG_00028.jpg",
+              "alignment": "left bottom",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "20 Inch tall K-Stand instrument stand holds full-sized Acoustic Guitar. Cutouts in lower arms allows stand to be used for Electric Guitars and Bass’.",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "1598394174711": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/KS20W-Walnut-Face_on.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "Image Description",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "1598394257245": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/KS20W-Walnut-Open_Front.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "Image slide",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "1598394293485": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Tsutomu20-Engraved-Heart_for_Music-150dpi.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "“A Heart for Music” engraving on Maui Hook (Tsutomu) model.",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "1598395461139": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Tsutomu20-Engraved-Heart_for_Music-Close_up-Body-150dpi.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "Engraving detail on Maui Hook (Tsutomu) model for Guitar.",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "1598395517931": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/KS12W-TSUTOMU-Forefront-Rt.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "Tsutomu. Specially designed K-Stand shaped to resemble the “Maui Hook” (as seen in Moana movie). Named after Keith’s father who is born and raised in Maui, Hawaii.",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "1598395557625": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/20190518_133430.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "Tsutomu model with wood burned art.",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "1598395609112": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/KS12W-TwoTone-wUke.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "12 Inch tall K-Stand instrument stand for Tenor Ukuleles. Also available in 10 Inch tall size for Concert and Soprano Ukuleles.",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "1598395644147": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1903_CKD_MM001_RE_00114.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "Image slide",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "1598395720718": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/KS20W-Woodburned-Hammerhead.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "Custom artwork. Example of custom wood burning art. Any K-Stand instrument stand can be customized.",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "1598395725932": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1903_LT_PH001_00223.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "Shown: (L) Custom Maui Hook \"Tsutomu\" 12 model, (R) Standard 10 inch model",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "1598395910015": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/20181201_092421.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "Image slide",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "1598396002734": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/20190427_162708.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "Image slide",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "1598396024598": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FullSizeR.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "Image slide",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "1598396051161": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/IMG_19741.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "Image slide",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "1598396087609": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/IMG_1634.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "Image slide",
+              "button_label": "",
+              "button_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1598393962939",
+          "1598393784539",
+          "1598393966077",
+          "1598394174711",
+          "1598394257245",
+          "1598394293485",
+          "1598395461139",
+          "1598395517931",
+          "1598395557625",
+          "1598395609112",
+          "1598395644147",
+          "1598395720718",
+          "1598395725932",
+          "1598395910015",
+          "1598396002734",
+          "1598396024598",
+          "1598396051161",
+          "1598396087609"
+        ],
+        "settings": {
+          "slider_height": "adapt",
+          "slider_home_auto": false,
+          "slider_home_rate": 7,
+          "slider_home_transition": "fade",
+          "text_size": "large"
+        }
+      },
+      "featured-video": {
+        "type": "featured-video",
+        "settings": {
+          "heading": "How To Use the K-Stand",
+          "video_url": "https:\/\/player.vimeo.com\/video\/343445880"
+        }
+      },
+      "cart-text": {
+        "type": "cart-text",
+        "settings": {
+          "text-box": "“K-Stand to the rescue.”",
+          "text": "<p><strong>Dear Carol, Keith &amp; Friends,<\/strong><\/p>\n<p>The other day I took this picture of the table tops at my ukulele group and thought I might share it with you. It shows what all ukulele players know about our instruments&hellip; we lay them down! Our instruments are often treated like toys, not as the fine quality instruments that they are. Well not anymore, not for my fine instrument, not since K-Stand came into my life. Now my instrument never lei&rsquo;s (pun intended) on a table. &ldquo;K-Stand to the rescue.&rdquo; It&rsquo;s a wonderful tool. Thank you K-Stand. Thank you Carol &amp; Keith for your magical tool.<br>Sincerely, Jon<\/p>"
+        }
+      },
+      "review-image": {
+        "type": "review-image",
+        "settings": {
+          "review_image": "shopify:\/\/shop_images\/Screen_Shot_2020-08-25_at_4.51.56_PM.png"
+        }
       }
     },
     "content_for_index": [
